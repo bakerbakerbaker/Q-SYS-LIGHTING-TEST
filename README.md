@@ -2,8 +2,8 @@
 
 # Images
 
-![Lights page](LightingPanelLights.png)
-![Shades page](LightingPanelShades.png)
+![Lights page](docs/images/LightingPanelLights.png)
+![Shades page](docs/images/LightingPanelShades.png)
 
 A third Q-SYS sample: a touchscreen panel for four lighting areas, four scenes, and two motorized shades,
 with a UDP lighting driver and an HTTP shade driver.
